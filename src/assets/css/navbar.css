@@ -1,0 +1,80 @@
+.bns-logo {
+  width: 183px;
+  height: 40px;
+}
+.bns-balance-button {
+  width: 131px;
+  height: 38.61px;
+  box-shadow: 0px 8px 16px rgba(5, 125, 118, 0.16);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  border: 1.5px solid #fff;
+  background: #ffffff;
+  border-radius: 24px 8px 8px 24px;
+  right: 1px;
+}
+
+.bns-btn-bg {
+  width: 133px;
+  height: 40.61px;
+  box-shadow: 0px 8px 16px rgba(5, 125, 118, 0.16);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(152.8deg, #00fff0 -0.36%, #ff00e5 99.42%);
+  border-radius: 24px 8px 8px 24px;
+}
+.bns-balance-icon {
+  width: 24.61px;
+  height: 24.61px;
+}
+
+.bns-balance {
+  font-family: Inter;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #606060;
+}
+.dropdown:focus-within .dropdown-menu {
+  opacity: 1;
+  transform: translate(0) scale(1);
+  visibility: visible;
+}
+.default-font {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
+.conntect-wallet-btn {
+  background: linear-gradient(
+    93.07deg,
+    #ff56f6 -0.84%,
+    #b936ee 35.69%,
+    #3bace2 97.46%,
+    #406aff 118.77%
+  );
+  box-shadow: 0px 11px 17px -7px rgba(179, 0, 169, 0.32);
+  border-radius: 4px;
+}
+
+.wallet {
+  background: url('../images/wallet.svg');
+  background-repeat: no-repeat;
+}
+.b {
+  border: 1.71196px solid #00fff0;
+  border-radius: 8px;
+}
+@media screen and (min-width: 760px) {
+  .searchBar {
+    background: #e7e7e7;
+    border-radius: 8px;
+  }
+}

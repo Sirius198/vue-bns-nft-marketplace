@@ -1,0 +1,22 @@
+<template>
+  <div>
+    <loading
+      :active="isLoading"
+      :can-cancel="false"
+      :is-full-page="true"
+      loader="bars"
+    ></loading>
+  </div>
+</template>
+
+<script>
+import Loading from 'vue-loading-overlay';
+import 'vue-loading-overlay/dist/vue-loading.css';
+
+export default {
+  components: {
+    Loading
+  },
+  props: ['isLoading']
+};
+</script>

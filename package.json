@@ -1,0 +1,42 @@
+{
+  "name": "bakeandstakefrontend",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite  --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^1.0.5",
+    "@j-t-mcc/vue3-chartjs": "^1.2.0",
+    "@tailwindcss/forms": "^0.4.0",
+    "@terra-money/terra.js": "^3.0.2",
+    "@terra-money/wallet-provider": "^3.6.5",
+    "axios": "^0.27.2",
+    "buffer": "^6.0.3",
+    "chart.js": "^3.5.1",
+    "rxjs": "^7.4.0",
+    "uuid": "^8.3.2",
+    "vite-compatible-readable-stream": "^3.6.0",
+    "vue": "^3.2.28",
+    "vue-loading-overlay": "^4.0.3",
+    "vue-router": "^4.0.12",
+    "vue-select": "^4.0.0-beta.3",
+    "vue-toastification": "^2.0.0-rc.5",
+    "vue-uuid": "^3.0.0",
+    "vue3-dropzone": "^0.0.7",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
+    "autoprefixer": "^10.4.0",
+    "mini-css-extract-plugin": "^2.5.3",
+    "multiplerun": "^2.0.1",
+    "postcss": "^8.4.5",
+    "sass": "^1.45.1",
+    "tailwindcss": "^3.0.7",
+    "vite": "^2.7.2",
+    "vite-tsconfig-paths": "^3.3.17",
+    "vue-tsc": "^0.29.8"
+  }
+}

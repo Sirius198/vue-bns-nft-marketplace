@@ -1,0 +1,8 @@
+.grad-border-1 {
+    border-image: linear-gradient(152.8deg, #00FFF0 -0.36%, #FF00E5 99.42%) !important;
+}
+
+.modal-separator {
+    height: 1px;
+    background-color: linear-gradient(90deg, rgba(250, 250, 250, 0) 0%, #B9B9B9 52.08%, rgba(236, 236, 236, 0) 100%);
+}

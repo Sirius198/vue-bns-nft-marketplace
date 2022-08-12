@@ -1,0 +1,57 @@
+.tera-icon {
+  background: url(../images/tera.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.verified-icon {
+  background: url(../images/verified.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.image-icon {
+  background: url(../images/image.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+
+}
+.opensea-icon {
+  background: url(../images/opensea.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.package-icon {
+  background: url(../images/package.svg);
+  background-repeat: no-repeat;
+}
+.layout-icon {
+  background: url(../images/layout.svg);
+  background-repeat: no-repeat;
+}
+.layers-icon {
+  background: url(../images/layout.svg);
+  background-repeat: no-repeat;
+}
+.twitter {
+  background: url('../images/twitter.svg');
+  background-repeat: no-repeat;
+}
+.instagram {
+  background: url('../images/instagram.svg');
+  background-repeat: no-repeat;
+}
+.telegram {
+  background: url('../images/telegram.svg');
+  background-repeat: no-repeat;
+}
+.reddit {
+  background: url('../images/reddit.svg');
+  background-repeat: no-repeat;
+}
+.github {
+  background: url('../images/github.svg');
+  background-repeat: no-repeat;
+}
+.discord {
+  background: url('../images/discord.svg');
+  background-repeat: no-repeat;
+}
